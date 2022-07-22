@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = "7fcfd3ad90884fd5b4c3ddc2b78d20a9";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://silent-fireman.surge.sh";
 
 const Spotify = {
     getAccessToken() {
